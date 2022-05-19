@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis - NLP
 
-**Complete Video Tutorial:** https://youtu.be/RLfUyn3HoaE
+Twitter Sentiment Analysis is a classification project that comes under Natural Language Processing. The objective of the project is to analyze the tweets and classify whether the tweet is positive or negative sentiment.
 
 # Dataset Information
 
